@@ -1,0 +1,21 @@
+
+
+@media (max-width: 768px)
+{
+
+  .hidden-below-768
+  {
+
+    display: none;
+  }
+}
+
+@media (min-width: 769px)
+{
+
+  .hidden-above-768
+  {
+
+    display: none;
+  }
+}
